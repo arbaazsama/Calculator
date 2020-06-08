@@ -2,10 +2,6 @@
 Very basic calculator application created by Java **Swing**. 
 
 
-
-## Thank You!
-Please ⭐️ this repo and share it with others
-
 ### Screenshots
 Sample           |   Colored
 :---------------------:|:-----------------
